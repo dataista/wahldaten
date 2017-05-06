@@ -107,6 +107,7 @@ https://github.com/berlinermorgenpost/cogran
 - http://pollyvote.com/de/
 - http://zweitstimme.org/
 - https://www.inwt-statistics.de/blog-artikel-lesen/wahlprognose-fuer-die-bundestagswahl-2017.html
+- http://www.election.de - Wahlkreisvorhersagen
 
 “**Umfragedaten**"
 - http://wahlrecht.de/
